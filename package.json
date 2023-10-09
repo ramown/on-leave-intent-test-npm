@@ -40,6 +40,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ramown/on-leave-intent-test-npm.git"
+    "url": "https://github.com/ramown/on-leave-intent-test-npm.git"
   }
 }
